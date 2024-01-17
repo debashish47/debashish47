@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debashish Sahoo</h1>
 <h3 align="center">An AI/ML enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F784822672535142521%2F&psig=AOvVaw0tR-HKziW_kTILDKxzWKof&ust=1705569019801000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCd7_OJ5IMDFQAAAAAdAAAAABA2">
+<img align="right" alt="coding" width="400" src="https://github.com/debashish47/debashish47/blob/main/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashish47&label=Profile%20views&color=0e75b6&style=flat" alt="debashish47" /> </p>
 

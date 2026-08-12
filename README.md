@@ -1,26 +1,110 @@
-<h1 align="center">Hi 👋, I'm Debashish Sahoo</h1>
-<h3 align="center">An AI/ML enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/debashish47/debashish47/blob/main/16fe7e7fb6eebb3087b6dc418748ee56.gif">
+<h1 align="center">Hi, I'm Debashish Sahoo 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debashish47&label=Profile%20views&color=0e75b6&style=flat" alt="debashish47" /> </p>
+<h3 align="center">
+Software Engineer | Backend Systems | Distributed Systems | Generative AI
+</h3>
 
-- 📫 How to reach me **tagdebs@gmail.com**
-
-- ⚡ Fun fact **I like Nuanced linguistic expression.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/debashi33130899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debashi33130899" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/debashish-sahoo-b0a84b24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debashish-sahoo-b0a84b24a/" height="30" width="40" /></a>
-<a href="https://instagram.com/debashish7823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debashish7823" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/debashish_47" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="debashish_47" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/debashish-sahoo2026/">LinkedIn</a> •
+<a href="mailto:work.debs26@gmail.com">Email</a> •
+<a href="https://github.com/debashish47">GitHub</a> •
+<a href="https://leetcode.com/u/deb4714s/">LeetCode</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debashish47&show_icons=true&locale=en&layout=compact" alt="debashish47" /></p>
+## 👋 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debashish47&show_icons=true&locale=en" alt="debashish47" /></p>
+Software engineer focused on building **scalable backend systems, reliable distributed services, and AI-powered applications**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debashish47&" alt="debashish47" /></p>
+- 🚀 Interested in **backend engineering, distributed systems, observability, and Generative AI**.
+- 🧠 Currently exploring **AI agents, RAG systems, LLM infrastructure, Kubernetes, and scalable system design**.
+- ⚙️ Passionate about building systems that are **reliable, observable, and production-ready**.
+
+---
+
+## 💼 Experience
+
+**Razorpay — SDE Intern, Payments UPI · Jan 2026 – Jul 2026**  
+Worked on **UPI payment infrastructure, observability, and reliability**, optimizing logs and building regression automation; reduced **Coralogix ingestion by 35–40%** and delivered **$1,200+ monthly savings**.
+
+**Dell Technologies — Software Engineer Intern · May 2025 – Jul 2025**  
+Worked on **LLM-driven recommendation systems and MCP tooling**, using vector search and schema-based filtering to reduce **false recommendations by 18%** and increase **user retention by 11%**.
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+
+`C++` `C` `Golang` `Python` `SQL`
+
+### Backend & Distributed Systems
+
+`Microservices` `REST APIs` `Distributed Systems` `Apache Kafka` `Redis`
+
+### Databases & Data Tools
+
+`PostgreSQL` `MySQL` `Querybook` `ChromaDB`
+
+### Cloud & DevOps
+
+`Docker` `Kubernetes` `CI/CD` `OpenTelemetry` `Coralogix` `Grafana` `Prometheus`
+
+### AI & GenAI
+
+`Generative AI` `LLMs` `LangChain` `RAG` `MCP` `Vector Search` `FAISS`
+
+### Developer Tools
+
+`Git` `GitHub` `Postman` `VS Code` `Claude CLI` `Claude Code` `DevRev`
+
+---
+
+## 🏆 Achievements
+
+- ⚔️ **Specialist @ Codeforces** — Max Rating: 1418
+- ♞ **Knight @ LeetCode** — Max Rating: 1853
+
+---
+
+## 🔭 Currently Exploring
+
+- Distributed systems & scalable backend architectures
+- Event-driven systems & microservices
+- Kubernetes & cloud-native infrastructure
+- Observability & OpenTelemetry
+- AI agents & agentic workflows
+- Retrieval-Augmented Generation
+- LLM evaluation & AI infrastructure
+- Model Context Protocol & AI developer tooling
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/debashish-sahoo2026/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="mailto:work.debs26@gmail.com">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="30" />
+</a>
+
+<a href="https://github.com/debashish47" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30" />
+</a>
+
+<a href="https://leetcode.com/u/deb4714s/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<b>Building reliable systems. Exploring intelligent software. Learning continuously.</b>
+</p>

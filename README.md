@@ -25,10 +25,10 @@ Software engineer focused on building **scalable backend systems, reliable distr
 
 ## 💼 Experience
 
-**Razorpay — SDE Intern, Payments UPI · Jan 2026 – Jul 2026**  
+**Razorpay — SDE Intern, Payments UPI**  
 Worked on **UPI payment infrastructure, observability, and reliability**, optimizing logs and building regression automation; reduced **Coralogix ingestion by 35–40%** and delivered **$1,200+ monthly savings**.
 
-**Dell Technologies — Software Engineer Intern · May 2025 – Jul 2025**  
+**Dell Technologies — Software Engineer Intern**  
 Worked on **LLM-driven recommendation systems and MCP tooling**, using vector search and schema-based filtering to reduce **false recommendations by 18%** and increase **user retention by 11%**.
 
 ---
